@@ -1,1 +1,2 @@
-we thank god
+my second commit
+praise be to Allah
