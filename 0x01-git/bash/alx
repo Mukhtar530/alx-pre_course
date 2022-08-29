@@ -1,2 +1,4 @@
 #!/bin/bash
-ALX school is cool!
+<<<<<<< HEAD
+echo "ALX school"
+
